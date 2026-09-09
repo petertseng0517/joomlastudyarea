@@ -4,7 +4,7 @@
 ---
 # 步驟說明
 1. 進入花蓮慈院[員工內網](https://hlhome.tzuchi.com.tw/) （需用院內網路）
-2. 點選[公共傳播室](https://hlm.tzuchi.com.tw/pc/) >>  網站維護([各部門網站管理後台](https://petertseng0517.github.io/hlm-pc/web-admin.html) >> 選擇你要管理的網站
+2. 點選[公共傳播室](https://hlm.tzuchi.com.tw/pc/) >>  網站維護([各部門網站管理後台](https://www.petertseng.me/hlm-pc/web-admin.html) >> 選擇你要管理的網站
 3. 輸入帳號密碼即可登入
 4. 維護任務完成後，請務必記得登出系統。
 5. 個人帳號請勿與他人共用。

@@ -1,6 +1,6 @@
 # 花蓮慈濟醫院 公共傳播室
 
-**線上網址：** https://petertseng0517.github.io/hlm-pc/
+**線上網址：** https://www.petertseng.me/hlm-pc/
 
 花蓮慈濟醫院公共傳播室的對外品牌首頁與院內工具平台，同時整合 Joomla 網站管理教學文件。
 - [Joomla教育訓練簡報](https://gamma.app/docs/-hkiod2cqkwmqfme)

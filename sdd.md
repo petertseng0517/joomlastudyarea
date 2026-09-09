@@ -2,7 +2,7 @@
 
 **文件版本：** 1.0  
 **日期：** 2026-05-14  
-**作者：** petertseng0517  
+**作者：** petertsengtw  
 **狀態：** 草稿
 
 ---
@@ -67,7 +67,7 @@ GitHub Repository
         └── image-to-webp.html   ← 工具頁面（新增）
 
 GitHub Actions → GitHub Pages
-網址：https://petertseng0517.github.io/joomla-study-area/tools/image-to-webp.html
+網址：https://www.petertseng.me/hlm-pc/tools/image-to-webp.html
 ```
 
 ### 3.3 頁面佈局
