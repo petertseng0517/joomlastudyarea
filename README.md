@@ -16,6 +16,7 @@
 | Joomla 教學文件 | `/joomla_study/` | 醫院官網管理教學（MkDocs 生成） |
 | 圖片轉 WebP 工具 | `/tools/image-to-webp.html` | 上傳前裁切並轉換格式 |
 | 網站管理後台入口 | `/web-admin.html` | Joomla 後台連結頁 |
+| 磁碟機掛載工具 | `/download/MapDrives.exe` | Picture / Finish 網路磁碟機自動掛載（Windows，說明置於 `/pc.html`） |
 
 ---
 
